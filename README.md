@@ -15,15 +15,14 @@ $ ./BlockDude
 ## Run Tests
 
 
--Testes:
+```Tests:
 
 $ ghci -i="src" -i="tests" tests/Tests.hs
 
 $ runTestsTX (1-6) -- Run Tests 1 to 6
 
 $ runAllTests -- Run all Tests
-
-
+```
 
 ## Dependencies
 
