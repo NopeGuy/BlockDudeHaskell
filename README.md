@@ -16,7 +16,6 @@ $ ./BlockDude
 
 
 ```Tests:
-
 $ ghci -i="src" -i="tests" tests/Tests.hs
 
 $ runTestsTX (1-6) -- Run Tests 1 to 6
