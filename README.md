@@ -32,5 +32,5 @@ $ runAllTests -- Run all Tests
 
 ## Partner in crime
 
-Couldn't be done without the one and only partner (also I stole the project template from him):
+Couldn't be done without the one and only partner (also I stole the readme template from him):
 -https://github.com/Bullseye-0xD4763
