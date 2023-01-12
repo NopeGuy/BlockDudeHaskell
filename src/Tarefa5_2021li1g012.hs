@@ -12,7 +12,6 @@ import Data.Maybe
 import qualified Data.Text as Tx
 import Graphics.Gloss
 import Graphics.Gloss.Interface.Pure.Game
-import Graphics.Gloss.Juicy
 import LI12122
 import Mapas
 import Tarefa1_2021li1g012
