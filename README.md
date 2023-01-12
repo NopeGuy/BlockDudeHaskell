@@ -27,7 +27,6 @@ $ runAllTests -- Run all Tests
 
 - GHC (Glasgow Haskell Compiler)
 - gloss
-- gloss-juicy
 - HUnit (optional)
 
 ## Partner in crime
